@@ -20,6 +20,28 @@ Once you are done, submit a
 [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to include your information in the original
 repository (the USCbiostats version).
 
+# PM566 Fall 2026 students
+
+Arnav Bhatia
+
+Danielle Goedhart
+
+Tasmiah Khan
+
+Nathan Weitershausen
+
+Makena Wilson
+
+Caitlin Worline
+
+Sabrina Zhang
+
+Ran Zhu
+
+## Instructor
+
+[**@kstreet13**](https://github.com/kstreet13) I'm Kelly and I'm currently enjoying the game Hades II. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="Kelly Street" width="40px"> 
+
 # PM566 Fall 2025 students
 
 [**@umaa908**](https://github.com/umaa908) I'm a first year Public Health Data Science MS student. My friends know me for my homemade chocolate lava cakes! 
